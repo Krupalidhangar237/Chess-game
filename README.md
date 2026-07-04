@@ -66,12 +66,6 @@ Open the `index.html` file in your browser.
 
 ---
 
-## 🌐 Live Demo
-
-👉 https://krupalidhangar237.github.io/chess-game-js
-
----
-
 ## 👩‍💻 Author
 
 **Krupali Dhangar**
